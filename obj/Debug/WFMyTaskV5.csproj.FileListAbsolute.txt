@@ -1,0 +1,11 @@
+C:\Users\ahmed\source\repos\WFMytasks\WFMyTaskV5\bin\Debug\WFMyTaskV5.exe.config
+C:\Users\ahmed\source\repos\WFMytasks\WFMyTaskV5\bin\Debug\WFMyTaskV5.exe
+C:\Users\ahmed\source\repos\WFMytasks\WFMyTaskV5\bin\Debug\WFMyTaskV5.pdb
+C:\Users\ahmed\source\repos\WFMytasks\WFMyTaskV5\obj\Debug\WFMyTaskV5.csprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\WFMytasks\WFMyTaskV5\obj\Debug\WFMyTaskV5.Form1.resources
+C:\Users\ahmed\source\repos\WFMytasks\WFMyTaskV5\obj\Debug\WFMyTaskV5.Properties.Resources.resources
+C:\Users\ahmed\source\repos\WFMytasks\WFMyTaskV5\obj\Debug\WFMyTaskV5.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\WFMytasks\WFMyTaskV5\obj\Debug\WFMyTaskV5.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\WFMytasks\WFMyTaskV5\obj\Debug\WFMyTaskV5.exe
+C:\Users\ahmed\source\repos\WFMytasks\WFMyTaskV5\obj\Debug\WFMyTaskV5.pdb
+C:\Users\ahmed\source\repos\WFMytasks\WFMyTaskV5\obj\Debug\WFMyTaskV5.Form2.resources
